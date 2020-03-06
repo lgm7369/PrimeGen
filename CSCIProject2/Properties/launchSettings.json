@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PrimeGen": {
+      "commandName": "Project",
+      "commandLineArgs": "64 5"
+    }
+  }
+}

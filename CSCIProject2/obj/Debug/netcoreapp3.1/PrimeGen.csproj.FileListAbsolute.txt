@@ -1,0 +1,11 @@
+C:\Users\Logan\source\repos\CSCIProject2\CSCIProject2\bin\Debug\netcoreapp3.1\PrimeGen.exe
+C:\Users\Logan\source\repos\CSCIProject2\CSCIProject2\bin\Debug\netcoreapp3.1\PrimeGen.deps.json
+C:\Users\Logan\source\repos\CSCIProject2\CSCIProject2\bin\Debug\netcoreapp3.1\PrimeGen.runtimeconfig.json
+C:\Users\Logan\source\repos\CSCIProject2\CSCIProject2\bin\Debug\netcoreapp3.1\PrimeGen.runtimeconfig.dev.json
+C:\Users\Logan\source\repos\CSCIProject2\CSCIProject2\bin\Debug\netcoreapp3.1\PrimeGen.dll
+C:\Users\Logan\source\repos\CSCIProject2\CSCIProject2\bin\Debug\netcoreapp3.1\PrimeGen.pdb
+C:\Users\Logan\source\repos\CSCIProject2\CSCIProject2\obj\Debug\netcoreapp3.1\PrimeGen.AssemblyInfoInputs.cache
+C:\Users\Logan\source\repos\CSCIProject2\CSCIProject2\obj\Debug\netcoreapp3.1\PrimeGen.AssemblyInfo.cs
+C:\Users\Logan\source\repos\CSCIProject2\CSCIProject2\obj\Debug\netcoreapp3.1\PrimeGen.dll
+C:\Users\Logan\source\repos\CSCIProject2\CSCIProject2\obj\Debug\netcoreapp3.1\PrimeGen.pdb
+C:\Users\Logan\source\repos\CSCIProject2\CSCIProject2\obj\Debug\netcoreapp3.1\PrimeGen.csprojAssemblyReference.cache
