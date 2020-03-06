@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Logan\\source\\repos\\CSCIProject2\\CSCIProject2\\PrimeGen.csproj": {}
+    "C:\\Users\\Alpine\\Documents\\CSCI251\\PrimeGen\\CSCIProject2\\PrimeGen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Logan\\source\\repos\\CSCIProject2\\CSCIProject2\\PrimeGen.csproj": {
+    "C:\\Users\\Alpine\\Documents\\CSCI251\\PrimeGen\\CSCIProject2\\PrimeGen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Logan\\source\\repos\\CSCIProject2\\CSCIProject2\\PrimeGen.csproj",
+        "projectUniqueName": "C:\\Users\\Alpine\\Documents\\CSCI251\\PrimeGen\\CSCIProject2\\PrimeGen.csproj",
         "projectName": "PrimeGen",
-        "projectPath": "C:\\Users\\Logan\\source\\repos\\CSCIProject2\\CSCIProject2\\PrimeGen.csproj",
-        "packagesPath": "C:\\Users\\Logan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Logan\\source\\repos\\CSCIProject2\\CSCIProject2\\obj\\",
+        "projectPath": "C:\\Users\\Alpine\\Documents\\CSCI251\\PrimeGen\\CSCIProject2\\PrimeGen.csproj",
+        "packagesPath": "C:\\Users\\Alpine\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alpine\\Documents\\CSCI251\\PrimeGen\\CSCIProject2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Logan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alpine\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
